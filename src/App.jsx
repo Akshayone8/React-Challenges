@@ -1,3 +1,4 @@
+import BoxChallenge from "./Projects/BoxChallenge";
 import ColorPicker from "./Projects/ColorPicker";
 import Counter from "./Projects/Counter";
 import InputSearch from "./Projects/InputSearch";
@@ -9,7 +10,8 @@ function App() {
       {/* <Counter /> */}
       {/* <InputSearch /> */}
       {/* <ColorPicker /> */}
-      <StarRating />
+      {/* <StarRating /> */}
+      <BoxChallenge />
     </>
   );
 }
