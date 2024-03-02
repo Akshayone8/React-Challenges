@@ -36,3 +36,9 @@ const StarRating = () => {
 };
 
 export default StarRating;
+
+//Points to be Noted
+
+// - first we map through the array and we get items and there index
+// - on click of star we run a function through the  function we can send them Index through which we get to know which star has been clicked
+// - index + 1 <= presentState if user clicks on same star twice then it shold unselect right ? and then before that stars should be active right ? thats why we are using less or equal to
