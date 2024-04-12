@@ -9,5 +9,10 @@
 ## Project-4 Box Mode Challenge 
   <img width="522" alt="Screenshot 2024-03-02 at 6 22 37 PM" src="https://github.com/Akshayone8/React-Challenges/assets/62467248/3d69b9eb-2202-48f1-8e71-a46956fc8948">
   
-## Projec-5 Interview Qestion 
+## Project-5 Interview Qestion 
   <img width="546" alt="Screenshot 2024-03-02 at 6 21 54 PM" src="https://github.com/Akshayone8/React-Challenges/assets/62467248/bf1fe1c7-171f-463d-b21b-ffe0d0dc009a">
+  
+## Project-6 Interview Question 
+<img width="546" src="https://github.com/Akshayone8/React-Challenges/assets/62467248/7ce99c53-2864-443a-a211-371843973c8c">
+
+
