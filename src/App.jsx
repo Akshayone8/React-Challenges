@@ -9,7 +9,7 @@ import PhoneOtpLogin from "./Projects/PhoneOtpLogin";
 import Main from "./Projects/Quiz-App/Main";
 import Timer from "./Projects/Timer";
 import MainBody from "./Projects/diabledbuttons-question/MainBody";
-
+import SortTables from "./Projects/SortingList/SortTable";
 function App() {
   return (
     <>
@@ -23,7 +23,8 @@ function App() {
       {/* <PhoneOtpLogin /> */}
       {/* <Main /> */}
       {/* <Timer /> */}
-      <MainBody />
+      {/* <MainBody /> */}
+      <SortTables />
     </>
   );
 }
