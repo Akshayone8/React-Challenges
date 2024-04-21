@@ -8,6 +8,7 @@ import StarRating from "./Projects/StarRating";
 import PhoneOtpLogin from "./Projects/PhoneOtpLogin";
 import Main from "./Projects/Quiz-App/Main";
 import Timer from "./Projects/Timer";
+import MainBody from "./Projects/diabledbuttons-question/MainBody";
 
 function App() {
   return (
@@ -21,7 +22,8 @@ function App() {
       {/* <Checkbox /> */}
       {/* <PhoneOtpLogin /> */}
       {/* <Main /> */}
-      <Timer />
+      {/* <Timer /> */}
+      <MainBody />
     </>
   );
 }
