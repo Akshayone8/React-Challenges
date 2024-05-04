@@ -1,0 +1,8 @@
+.post {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+}

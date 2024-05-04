@@ -11,6 +11,7 @@ import Timer from "./Projects/Timer";
 import MainBody from "./Projects/diabledbuttons-question/MainBody";
 import SortTables from "./Projects/SortingList/SortTable";
 import MaxCount from "./Projects/MaxCount";
+import InfiniteScroll from "./Projects/InfiniteScroll/InfiniteScroll";
 function App() {
   return (
     <>
@@ -26,7 +27,8 @@ function App() {
       {/* <Timer /> */}
       {/* <MainBody /> */}
       {/* <SortTables /> */}
-      <MaxCount />
+      {/* <MaxCount /> */}
+      <InfiniteScroll />
     </>
   );
 }
