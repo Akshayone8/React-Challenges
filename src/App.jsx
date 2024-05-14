@@ -12,6 +12,9 @@ import MainBody from "./Projects/diabledbuttons-question/MainBody";
 import SortTables from "./Projects/SortingList/SortTable";
 import MaxCount from "./Projects/MaxCount";
 import InfiniteScroll from "./Projects/InfiniteScroll/InfiniteScroll";
+import JobBoard from "./Projects/job-board/JobBoard";
+import SortUser from "./Projects/sortList/SortUser";
+import UserList from "./Projects/user-pagination/UserList";
 function App() {
   return (
     <>
@@ -28,7 +31,10 @@ function App() {
       {/* <MainBody /> */}
       {/* <SortTables /> */}
       {/* <MaxCount /> */}
-      <InfiniteScroll />
+      {/* <InfiniteScroll /> */}
+      {/* <JobBoard /> */}
+      {/* <SortUser /> */}
+      <UserList />
     </>
   );
 }
